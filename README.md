@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/AI%20Agents-6A0DAD?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/IT%20Compliance%20%26%20Governance-555555?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/LLMs-6A0DAD?style=for-the-badge&logoColor=white" />
-  <img src="https://komarev.com/ghpvc/?username=lysmufti&label=Profile%20views&color=blueviolet&style=for-the-badge" />
 </p>  
 <br>
 
@@ -34,5 +33,7 @@
 > Won in the **Agentic Arena RAG Community Contest** 🏆 
 > - End-to-end RAG pipeline: preprocessing, ingestion, vector storage, reranking, arbitration, contextual retrieval and evaluation.   
 > - Showcases advanced prompt engineering and evaluation results.  
+
+<p align="right"><img src="https://komarev.com/ghpvc/?username=lysmufti&label=Profile%20views&color=blueviolet&style=for-the-badge" /></p>
 
 
