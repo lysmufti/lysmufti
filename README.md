@@ -19,7 +19,7 @@
 >
 > Always open to connecting and sharing ideas.  
 > 
-> <a href="https://www.linkedin.com/in/lysmufti/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="14"/></a> Background in IT GRC @ EY Germany
+> <a href="https://www.linkedin.com/in/laith-mufti/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="14"/></a> Background in IT GRC @ EY Germany
 
 
 ---
